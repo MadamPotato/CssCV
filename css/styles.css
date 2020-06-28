@@ -43,6 +43,10 @@ h3 {
   position: relative;
   padding-top: 100px;
 }
+.intro{
+  width: 50%;
+  margin: auto;
+}
 
 .middle-container {}
 
